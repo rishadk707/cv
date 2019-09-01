@@ -1,0 +1,18 @@
+body{
+  background-color: inherit;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  background-color: white;
+  width:3%;
+
+}
+h1{
+  color: green;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 75px;
+}
+h3{
+  color: green;
+}
